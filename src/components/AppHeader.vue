@@ -23,7 +23,7 @@ export default {
   data() {
     return {
       list: [
-        { title: "Dc Heros", to: "/dc-heros" },
+        { title: "To-Do List", to: "/to-do-list" },
         { title: "Calendar", to: "/calendar" },
         { title: "Markdown", to: "/markdown" },
         { title: "Slider", to: "/slider-carousel" },
